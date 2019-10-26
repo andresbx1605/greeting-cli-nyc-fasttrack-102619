@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 require_relative "../lib/greeting.rb"
 
-Puts ("Hi!, I'm HAL, what's your name?' exactlylea")
+Puts ("Hi!, I'm HAL, what's your name?' exactly")
