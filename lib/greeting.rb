@@ -1,1 +1,1 @@
-# code spec/the #greeting method here!
+spec/01_greeting_spec.rb
